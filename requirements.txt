@@ -1,0 +1,12 @@
+pillow
+django
+django-nested-admin
+psycopg2-binary
+django-jazzmin
+djangorestframework
+django-phonenumber-field
+phonenumbers
+drf-yasg
+drf-yasg-json-api
+xmltodict
+django-cors-headers
